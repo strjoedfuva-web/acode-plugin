@@ -1,4 +1,4 @@
-# Acode JavaScript template
+.# Acode JavaScript template
 
 Official JavaScript template for Acode plugins.
 
